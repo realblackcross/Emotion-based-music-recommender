@@ -17,5 +17,5 @@ npm install
 ## Start development server
 npm run dev
 #or
-Streamlit music.py
+streamlit run music.py
 
